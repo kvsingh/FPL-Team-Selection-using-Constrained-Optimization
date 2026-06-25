@@ -26,7 +26,7 @@ For prediction, the current season's player data is obtained from [Calvin Rostan
 
 ## Application
 
-This can be used to apply an FPL wildcard/free hit or for weekly trasnfers.
+This can be used to apply an FPL wildcard/free hit or for weekly transfers.
 
 # Original Notebook Link 
 https://www.kaggle.com/code/teamaker/team-selection-using-constraint-maximization
